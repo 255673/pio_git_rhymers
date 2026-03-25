@@ -1,7 +1,10 @@
 package edu.kis.vh.nursery;
 
+// projekt jest poprawny
+
 import org.junit.Assert;
 import org.junit.Test;
+
 
 public class RhymersJUnitTest {
 
